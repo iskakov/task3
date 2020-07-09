@@ -1,0 +1,653 @@
+USE [Task3]
+GO
+
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,93
+           ,2019
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'559101D0-1A17-4017-82EB-8ED27DF8F25F')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,39
+           ,2020
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'0E82B805-53C6-4951-B472-4CD4CB0F86C6')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,4
+           ,2019
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'0E82B805-53C6-4951-B472-4CD4CB0F86C6')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,62
+           ,2019
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'0B33B805-A520-4762-A5DC-0F9265FE42EB')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,18
+           ,2019
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'11CA8FA3-1402-4B07-816E-84BF9F2C6906')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,80
+           ,2020
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'11CA8FA3-1402-4B07-816E-84BF9F2C6906')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,99
+           ,2020
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'559101D0-1A17-4017-82EB-8ED27DF8F25F')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,33
+           ,2019
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'0B33B805-A520-4762-A5DC-0F9265FE42EB')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,54
+           ,2019
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'0E82B805-53C6-4951-B472-4CD4CB0F86C6')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,19
+           ,2019
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'0E82B805-53C6-4951-B472-4CD4CB0F86C6')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,67
+           ,2019
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'11CA8FA3-1402-4B07-816E-84BF9F2C6906')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,46
+           ,2020
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'0E82B805-53C6-4951-B472-4CD4CB0F86C6')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,98
+           ,2018
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'11CA8FA3-1402-4B07-816E-84BF9F2C6906')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,92
+           ,2018
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'559101D0-1A17-4017-82EB-8ED27DF8F25F')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,86
+           ,2020
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'11CA8FA3-1402-4B07-816E-84BF9F2C6906')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,87
+           ,2018
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'11CA8FA3-1402-4B07-816E-84BF9F2C6906')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,16
+           ,2018
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'0B33B805-A520-4762-A5DC-0F9265FE42EB')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,54
+           ,2019
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'11CA8FA3-1402-4B07-816E-84BF9F2C6906')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,13
+           ,2019
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'0E82B805-53C6-4951-B472-4CD4CB0F86C6')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,66
+           ,2020
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'0B33B805-A520-4762-A5DC-0F9265FE42EB')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,27
+           ,2019
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'0B33B805-A520-4762-A5DC-0F9265FE42EB')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,96
+           ,2020
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'0E82B805-53C6-4951-B472-4CD4CB0F86C6')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,67
+           ,2020
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'0E82B805-53C6-4951-B472-4CD4CB0F86C6')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,82
+           ,2019
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'11CA8FA3-1402-4B07-816E-84BF9F2C6906')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,57
+           ,2020
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'0B33B805-A520-4762-A5DC-0F9265FE42EB')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,88
+           ,2018
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'0E82B805-53C6-4951-B472-4CD4CB0F86C6')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,4
+           ,2020
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'0E82B805-53C6-4951-B472-4CD4CB0F86C6')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,36
+           ,2019
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'559101D0-1A17-4017-82EB-8ED27DF8F25F')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,66
+           ,2019
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'0E82B805-53C6-4951-B472-4CD4CB0F86C6')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,24
+           ,2020
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'0E82B805-53C6-4951-B472-4CD4CB0F86C6')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,94
+           ,2019
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'11CA8FA3-1402-4B07-816E-84BF9F2C6906')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,8
+           ,2020
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'0E82B805-53C6-4951-B472-4CD4CB0F86C6')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,1
+           ,2018
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'559101D0-1A17-4017-82EB-8ED27DF8F25F')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,56
+           ,2020
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'0B33B805-A520-4762-A5DC-0F9265FE42EB')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,80
+           ,2018
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'0B33B805-A520-4762-A5DC-0F9265FE42EB')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,17
+           ,2020
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'0B33B805-A520-4762-A5DC-0F9265FE42EB')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,65
+           ,2019
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'0E82B805-53C6-4951-B472-4CD4CB0F86C6')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,22
+           ,2018
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'559101D0-1A17-4017-82EB-8ED27DF8F25F')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,13
+           ,2020
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'0E82B805-53C6-4951-B472-4CD4CB0F86C6')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,67
+           ,2018
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'0E82B805-53C6-4951-B472-4CD4CB0F86C6')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,11
+           ,2018
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'0B33B805-A520-4762-A5DC-0F9265FE42EB')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,81
+           ,2019
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'11CA8FA3-1402-4B07-816E-84BF9F2C6906')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,15
+           ,2019
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'559101D0-1A17-4017-82EB-8ED27DF8F25F')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,53
+           ,2019
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'0B33B805-A520-4762-A5DC-0F9265FE42EB')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,62
+           ,2019
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'11CA8FA3-1402-4B07-816E-84BF9F2C6906')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,98
+           ,2019
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'559101D0-1A17-4017-82EB-8ED27DF8F25F')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,83
+           ,2020
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'11CA8FA3-1402-4B07-816E-84BF9F2C6906')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,72
+           ,2018
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'11CA8FA3-1402-4B07-816E-84BF9F2C6906')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,92
+           ,2020
+           ,'74957FA4-E258-494F-A54A-ECD8CA300ECB'
+           ,'0B33B805-A520-4762-A5DC-0F9265FE42EB')
+GO
+INSERT INTO [dbo].[NetworkSection]
+           ([primarykey]
+           ,[number]
+           ,[year_pipeline]
+           ,[type_pipeline_id]
+           ,[type_isolation_id])
+     VALUES
+           (NEWID()
+           ,53
+           ,2020
+           ,'D4FAC490-AB71-4F8A-B081-CA41CEF6A198'
+           ,'0E82B805-53C6-4951-B472-4CD4CB0F86C6')
+GO
