@@ -5,36 +5,36 @@ INSERT INTO [dbo].[TypeIsolation]
            ([primarykey]
            ,[name])
      VALUES
-           (NEWID()
-           ,'ППУ')
+           ('ab515ada-2a5a-4353-b286-1feb2d7e817a'
+           ,'РџРџРЈ')
 GO
 INSERT INTO [dbo].[TypeIsolation]
            ([primarykey]
            ,[name])
      VALUES
-           (NEWID()
-           ,'ППМ')
+           ('5a30dc8e-d88e-4f37-9eab-9e9f70605d3c'
+           ,'РџРџРњ')
 GO
 INSERT INTO [dbo].[TypeIsolation]
            ([primarykey]
            ,[name])
      VALUES
-           (NEWID()
-           ,'АПБ')
+           ('56d1b571-ecf5-4cf9-bdf2-59a4ea923065'
+           ,'РђРџР‘')
 GO
 INSERT INTO [dbo].[TypeIsolation]
            ([primarykey]
            ,[name])
      VALUES
-           (NEWID()
-           ,'Изоляция из пенополиэтилена')
+           ('345dbab4-074a-4496-b005-956498037e68'
+           ,'РР·РѕР»СЏС†РёСЏ РёР· РїРµРЅРѕРїРѕР»РёСЌС‚РёР»РµРЅР°')
 GO
 INSERT INTO [dbo].[TypeIsolation]
            ([primarykey]
            ,[name])
      VALUES
-           (NEWID()
-           ,'ВУС')
+           ('6b1ccaf3-d04c-4dee-8f93-0007f06656fa'
+           ,'Р’РЈРЎ')
 GO
 
 
