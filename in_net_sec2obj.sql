@@ -1,1446 +1,1443 @@
 USE [Task3]
 GO
 
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('4D958BD0-8AA3-48A7-A786-04FC454E6EE3'
-           ,'C249166E-6745-4C61-978C-2997949A0759'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('91D7C028-2631-41B4-B606-03493ABAD899'
+            ,'92AEE48F-1EC4-4098-A505-1B3D2B8F5433'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('ADCBB1FA-71D3-4EBC-B445-05CEF9B9D730'
-           ,'C249166E-6745-4C61-978C-2997949A0759'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('12AD7249-F7F8-4B48-9E7E-035D8E7CA283'
+            ,'92AEE48F-1EC4-4098-A505-1B3D2B8F5433'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('AE5DF216-D19D-4844-9957-094FC80192AD'
-           ,'C249166E-6745-4C61-978C-2997949A0759'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('D2D61935-840F-414C-A045-04342108891D'
+            ,'92AEE48F-1EC4-4098-A505-1B3D2B8F5433'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('D9DA6C3E-1821-4CFB-8077-1FDC64A1E23B'
-           ,'C249166E-6745-4C61-978C-2997949A0759'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('BF1580AE-F8D8-4D14-819F-04986F92459D'
+            ,'92AEE48F-1EC4-4098-A505-1B3D2B8F5433'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('0FA1E43B-B8D0-4340-8783-221721C71DB2'
-           ,'C249166E-6745-4C61-978C-2997949A0759'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('1450F787-3976-4363-86D5-05A2EA4869AB'
+            ,'92AEE48F-1EC4-4098-A505-1B3D2B8F5433'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('5876CF65-5718-4C5A-9453-28F3B2813B04'
-           ,'C249166E-6745-4C61-978C-2997949A0759'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('B784FFA2-D9A2-4632-BA08-07DF390372C8'
+            ,'92AEE48F-1EC4-4098-A505-1B3D2B8F5433'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('51BF9989-02C7-4267-8A9A-2B128F546772'
-           ,'C249166E-6745-4C61-978C-2997949A0759'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('FD0DB4DF-92D2-4098-8F83-12FB10E0B4A5'
+            ,'92AEE48F-1EC4-4098-A505-1B3D2B8F5433'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('E6DC20C8-763B-40C9-BF95-2D7812435F4E'
-           ,'C249166E-6745-4C61-978C-2997949A0759'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('FC0620DE-1CB6-4F3F-8DDA-154A3997DA29'
+            ,'92AEE48F-1EC4-4098-A505-1B3D2B8F5433'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('207CF33B-3ADB-4FAC-B1D6-30C84FD5471E'
-           ,'C249166E-6745-4C61-978C-2997949A0759'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('20E5C1C9-1FF0-43A6-A135-18ECFE884EE7'
+            ,'92AEE48F-1EC4-4098-A505-1B3D2B8F5433'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('4C30AE46-A3E1-4C0D-9223-3DDD0D366C44'
-           ,'C249166E-6745-4C61-978C-2997949A0759'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('10B9CEF2-938E-42D8-BBB7-1AC77B543F27'
+            ,'92AEE48F-1EC4-4098-A505-1B3D2B8F5433'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('4D958BD0-8AA3-48A7-A786-04FC454E6EE3'
-           ,'491E997F-D224-4234-955C-E8DC5F9AD12B'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('91D7C028-2631-41B4-B606-03493ABAD899'
+            ,'F93953AE-8D0C-40BF-AF13-956CEA40128C'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('ADCBB1FA-71D3-4EBC-B445-05CEF9B9D730'
-           ,'491E997F-D224-4234-955C-E8DC5F9AD12B'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('12AD7249-F7F8-4B48-9E7E-035D8E7CA283'
+            ,'F93953AE-8D0C-40BF-AF13-956CEA40128C'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('AE5DF216-D19D-4844-9957-094FC80192AD'
-           ,'491E997F-D224-4234-955C-E8DC5F9AD12B'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('D2D61935-840F-414C-A045-04342108891D'
+            ,'F93953AE-8D0C-40BF-AF13-956CEA40128C'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('D9DA6C3E-1821-4CFB-8077-1FDC64A1E23B'
-           ,'491E997F-D224-4234-955C-E8DC5F9AD12B'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('BF1580AE-F8D8-4D14-819F-04986F92459D'
+            ,'F93953AE-8D0C-40BF-AF13-956CEA40128C'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('0FA1E43B-B8D0-4340-8783-221721C71DB2'
-           ,'491E997F-D224-4234-955C-E8DC5F9AD12B'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('1450F787-3976-4363-86D5-05A2EA4869AB'
+            ,'F93953AE-8D0C-40BF-AF13-956CEA40128C'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('5876CF65-5718-4C5A-9453-28F3B2813B04'
-           ,'491E997F-D224-4234-955C-E8DC5F9AD12B'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('B784FFA2-D9A2-4632-BA08-07DF390372C8'
+            ,'F93953AE-8D0C-40BF-AF13-956CEA40128C'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('51BF9989-02C7-4267-8A9A-2B128F546772'
-           ,'491E997F-D224-4234-955C-E8DC5F9AD12B'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('FD0DB4DF-92D2-4098-8F83-12FB10E0B4A5'
+            ,'F93953AE-8D0C-40BF-AF13-956CEA40128C'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('E6DC20C8-763B-40C9-BF95-2D7812435F4E'
-           ,'491E997F-D224-4234-955C-E8DC5F9AD12B'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('FC0620DE-1CB6-4F3F-8DDA-154A3997DA29'
+            ,'F93953AE-8D0C-40BF-AF13-956CEA40128C'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('207CF33B-3ADB-4FAC-B1D6-30C84FD5471E'
-           ,'491E997F-D224-4234-955C-E8DC5F9AD12B'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('20E5C1C9-1FF0-43A6-A135-18ECFE884EE7'
+            ,'F93953AE-8D0C-40BF-AF13-956CEA40128C'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('4C30AE46-A3E1-4C0D-9223-3DDD0D366C44'
-           ,'491E997F-D224-4234-955C-E8DC5F9AD12B'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('10B9CEF2-938E-42D8-BBB7-1AC77B543F27'
+            ,'F93953AE-8D0C-40BF-AF13-956CEA40128C'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('4D958BD0-8AA3-48A7-A786-04FC454E6EE3'
-           ,'205CC0C7-8F89-491E-9C72-9715119C4B80'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('91D7C028-2631-41B4-B606-03493ABAD899'
+            ,'BD757698-69CB-4341-81E2-DF415A182F08'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('ADCBB1FA-71D3-4EBC-B445-05CEF9B9D730'
-           ,'205CC0C7-8F89-491E-9C72-9715119C4B80'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('12AD7249-F7F8-4B48-9E7E-035D8E7CA283'
+            ,'BD757698-69CB-4341-81E2-DF415A182F08'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('AE5DF216-D19D-4844-9957-094FC80192AD'
-           ,'205CC0C7-8F89-491E-9C72-9715119C4B80'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('D2D61935-840F-414C-A045-04342108891D'
+            ,'BD757698-69CB-4341-81E2-DF415A182F08'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('D9DA6C3E-1821-4CFB-8077-1FDC64A1E23B'
-           ,'205CC0C7-8F89-491E-9C72-9715119C4B80'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('BF1580AE-F8D8-4D14-819F-04986F92459D'
+            ,'BD757698-69CB-4341-81E2-DF415A182F08'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('0FA1E43B-B8D0-4340-8783-221721C71DB2'
-           ,'205CC0C7-8F89-491E-9C72-9715119C4B80'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('1450F787-3976-4363-86D5-05A2EA4869AB'
+            ,'BD757698-69CB-4341-81E2-DF415A182F08'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('5876CF65-5718-4C5A-9453-28F3B2813B04'
-           ,'205CC0C7-8F89-491E-9C72-9715119C4B80'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('B784FFA2-D9A2-4632-BA08-07DF390372C8'
+            ,'BD757698-69CB-4341-81E2-DF415A182F08'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('51BF9989-02C7-4267-8A9A-2B128F546772'
-           ,'205CC0C7-8F89-491E-9C72-9715119C4B80'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('FD0DB4DF-92D2-4098-8F83-12FB10E0B4A5'
+            ,'BD757698-69CB-4341-81E2-DF415A182F08'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('E6DC20C8-763B-40C9-BF95-2D7812435F4E'
-           ,'205CC0C7-8F89-491E-9C72-9715119C4B80'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('FC0620DE-1CB6-4F3F-8DDA-154A3997DA29'
+            ,'BD757698-69CB-4341-81E2-DF415A182F08'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('207CF33B-3ADB-4FAC-B1D6-30C84FD5471E'
-           ,'205CC0C7-8F89-491E-9C72-9715119C4B80'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('20E5C1C9-1FF0-43A6-A135-18ECFE884EE7'
+            ,'BD757698-69CB-4341-81E2-DF415A182F08'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('4C30AE46-A3E1-4C0D-9223-3DDD0D366C44'
-           ,'205CC0C7-8F89-491E-9C72-9715119C4B80'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('10B9CEF2-938E-42D8-BBB7-1AC77B543F27'
+            ,'BD757698-69CB-4341-81E2-DF415A182F08'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('4D958BD0-8AA3-48A7-A786-04FC454E6EE3'
-           ,'8C266778-E8D8-43B1-B0B1-FEC4C1CAD212'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('91D7C028-2631-41B4-B606-03493ABAD899'
+            ,'4C03B85B-C50A-4686-90DE-F28E403669DD'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('ADCBB1FA-71D3-4EBC-B445-05CEF9B9D730'
-           ,'8C266778-E8D8-43B1-B0B1-FEC4C1CAD212'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('12AD7249-F7F8-4B48-9E7E-035D8E7CA283'
+            ,'4C03B85B-C50A-4686-90DE-F28E403669DD'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('AE5DF216-D19D-4844-9957-094FC80192AD'
-           ,'8C266778-E8D8-43B1-B0B1-FEC4C1CAD212'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('D2D61935-840F-414C-A045-04342108891D'
+            ,'4C03B85B-C50A-4686-90DE-F28E403669DD'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('D9DA6C3E-1821-4CFB-8077-1FDC64A1E23B'
-           ,'8C266778-E8D8-43B1-B0B1-FEC4C1CAD212'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('BF1580AE-F8D8-4D14-819F-04986F92459D'
+            ,'4C03B85B-C50A-4686-90DE-F28E403669DD'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('0FA1E43B-B8D0-4340-8783-221721C71DB2'
-           ,'8C266778-E8D8-43B1-B0B1-FEC4C1CAD212'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('1450F787-3976-4363-86D5-05A2EA4869AB'
+            ,'4C03B85B-C50A-4686-90DE-F28E403669DD'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('5876CF65-5718-4C5A-9453-28F3B2813B04'
-           ,'8C266778-E8D8-43B1-B0B1-FEC4C1CAD212'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('B784FFA2-D9A2-4632-BA08-07DF390372C8'
+            ,'4C03B85B-C50A-4686-90DE-F28E403669DD'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('51BF9989-02C7-4267-8A9A-2B128F546772'
-           ,'8C266778-E8D8-43B1-B0B1-FEC4C1CAD212'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('FD0DB4DF-92D2-4098-8F83-12FB10E0B4A5'
+            ,'4C03B85B-C50A-4686-90DE-F28E403669DD'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('E6DC20C8-763B-40C9-BF95-2D7812435F4E'
-           ,'8C266778-E8D8-43B1-B0B1-FEC4C1CAD212'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('FC0620DE-1CB6-4F3F-8DDA-154A3997DA29'
+            ,'4C03B85B-C50A-4686-90DE-F28E403669DD'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('207CF33B-3ADB-4FAC-B1D6-30C84FD5471E'
-           ,'8C266778-E8D8-43B1-B0B1-FEC4C1CAD212'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('20E5C1C9-1FF0-43A6-A135-18ECFE884EE7'
+            ,'4C03B85B-C50A-4686-90DE-F28E403669DD'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('4C30AE46-A3E1-4C0D-9223-3DDD0D366C44'
-           ,'8C266778-E8D8-43B1-B0B1-FEC4C1CAD212'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('10B9CEF2-938E-42D8-BBB7-1AC77B543F27'
+            ,'4C03B85B-C50A-4686-90DE-F28E403669DD'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('FBC80B98-99FA-4387-AE48-440AB8FDD5CC'
-           ,'7AAA50D6-253C-460F-BD04-86B4313C9BF6'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('233CE6DF-E669-4FFE-9171-205D797279D1'
+            ,'24E29549-BB95-442F-8260-68A0E9D42060'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('D9B873C1-8E86-4D8B-9465-4521F73F75C0'
-           ,'7AAA50D6-253C-460F-BD04-86B4313C9BF6'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('57315CF2-69AA-4879-933B-2062ECC9CA1F'
+            ,'24E29549-BB95-442F-8260-68A0E9D42060'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('E66E42A2-D390-4D2E-A395-4C02F19B64DE'
-           ,'7AAA50D6-253C-460F-BD04-86B4313C9BF6'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('E32971AA-D56E-48D8-99E5-300F59642479'
+            ,'24E29549-BB95-442F-8260-68A0E9D42060'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('AF9E553E-FA01-4B6C-BA97-5982D5D8507F'
-           ,'7AAA50D6-253C-460F-BD04-86B4313C9BF6'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('8D8721B7-E862-46E6-8AAB-3EF8604F2D54'
+            ,'24E29549-BB95-442F-8260-68A0E9D42060'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('3AEC5CFA-7DB0-4C4A-9310-5C231D7FB0A4'
-           ,'7AAA50D6-253C-460F-BD04-86B4313C9BF6'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('0473F5AA-4BED-4D3C-B2DA-418D6DBC9ED3'
+            ,'24E29549-BB95-442F-8260-68A0E9D42060'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('8DBF7606-52D8-4E48-A838-61EF8923302A'
-           ,'7AAA50D6-253C-460F-BD04-86B4313C9BF6'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('9C50FD32-620C-4E7F-A9F3-448B012C3455'
+            ,'24E29549-BB95-442F-8260-68A0E9D42060'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('F9FAF79A-4F2A-45F6-8842-6276F6BC298C'
-           ,'7AAA50D6-253C-460F-BD04-86B4313C9BF6'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('D017BE58-270B-4728-A81A-4E931D647380'
+            ,'24E29549-BB95-442F-8260-68A0E9D42060'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('9006DD59-FD29-48FE-B8CD-67A3364F3492'
-           ,'7AAA50D6-253C-460F-BD04-86B4313C9BF6'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('B926E6D1-CA79-4255-BE27-52112012B574'
+            ,'24E29549-BB95-442F-8260-68A0E9D42060'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('234C47CE-DE95-478B-B2A9-6818368CCB3B'
-           ,'7AAA50D6-253C-460F-BD04-86B4313C9BF6'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('0A262FAE-BFFD-4B74-B0AA-5DD891B7D0CA'
+            ,'24E29549-BB95-442F-8260-68A0E9D42060'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('100CE7C1-3224-4C0C-BF8D-6B0F5E566B96'
-           ,'7AAA50D6-253C-460F-BD04-86B4313C9BF6'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('5E82B1DF-DCD9-4EBF-A4BE-5E0611B7BBF7'
+            ,'24E29549-BB95-442F-8260-68A0E9D42060'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('FBC80B98-99FA-4387-AE48-440AB8FDD5CC'
-           ,'D7179821-BE1F-418B-9CF1-B14340C3562B'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('233CE6DF-E669-4FFE-9171-205D797279D1'
+            ,'E4E4B652-52A5-4747-8888-E3852D051FB1'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('D9B873C1-8E86-4D8B-9465-4521F73F75C0'
-           ,'D7179821-BE1F-418B-9CF1-B14340C3562B'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('57315CF2-69AA-4879-933B-2062ECC9CA1F'
+            ,'E4E4B652-52A5-4747-8888-E3852D051FB1'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('E66E42A2-D390-4D2E-A395-4C02F19B64DE'
-           ,'D7179821-BE1F-418B-9CF1-B14340C3562B'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('E32971AA-D56E-48D8-99E5-300F59642479'
+            ,'E4E4B652-52A5-4747-8888-E3852D051FB1'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('AF9E553E-FA01-4B6C-BA97-5982D5D8507F'
-           ,'D7179821-BE1F-418B-9CF1-B14340C3562B'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('8D8721B7-E862-46E6-8AAB-3EF8604F2D54'
+            ,'E4E4B652-52A5-4747-8888-E3852D051FB1'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('3AEC5CFA-7DB0-4C4A-9310-5C231D7FB0A4'
-           ,'D7179821-BE1F-418B-9CF1-B14340C3562B'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('0473F5AA-4BED-4D3C-B2DA-418D6DBC9ED3'
+            ,'E4E4B652-52A5-4747-8888-E3852D051FB1'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('8DBF7606-52D8-4E48-A838-61EF8923302A'
-           ,'D7179821-BE1F-418B-9CF1-B14340C3562B'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('9C50FD32-620C-4E7F-A9F3-448B012C3455'
+            ,'E4E4B652-52A5-4747-8888-E3852D051FB1'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('F9FAF79A-4F2A-45F6-8842-6276F6BC298C'
-           ,'D7179821-BE1F-418B-9CF1-B14340C3562B'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('D017BE58-270B-4728-A81A-4E931D647380'
+            ,'E4E4B652-52A5-4747-8888-E3852D051FB1'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('9006DD59-FD29-48FE-B8CD-67A3364F3492'
-           ,'D7179821-BE1F-418B-9CF1-B14340C3562B'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('B926E6D1-CA79-4255-BE27-52112012B574'
+            ,'E4E4B652-52A5-4747-8888-E3852D051FB1'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('234C47CE-DE95-478B-B2A9-6818368CCB3B'
-           ,'D7179821-BE1F-418B-9CF1-B14340C3562B'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('0A262FAE-BFFD-4B74-B0AA-5DD891B7D0CA'
+            ,'E4E4B652-52A5-4747-8888-E3852D051FB1'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('100CE7C1-3224-4C0C-BF8D-6B0F5E566B96'
-           ,'D7179821-BE1F-418B-9CF1-B14340C3562B'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('5E82B1DF-DCD9-4EBF-A4BE-5E0611B7BBF7'
+            ,'E4E4B652-52A5-4747-8888-E3852D051FB1'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('FBC80B98-99FA-4387-AE48-440AB8FDD5CC'
-           ,'8E03551B-8966-4DD3-B1CE-E1D39DBEF5CC'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('233CE6DF-E669-4FFE-9171-205D797279D1'
+            ,'889017D7-3734-4406-BAEC-E41C6A490F9C'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('D9B873C1-8E86-4D8B-9465-4521F73F75C0'
-           ,'8E03551B-8966-4DD3-B1CE-E1D39DBEF5CC'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('57315CF2-69AA-4879-933B-2062ECC9CA1F'
+            ,'889017D7-3734-4406-BAEC-E41C6A490F9C'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('E66E42A2-D390-4D2E-A395-4C02F19B64DE'
-           ,'8E03551B-8966-4DD3-B1CE-E1D39DBEF5CC'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('E32971AA-D56E-48D8-99E5-300F59642479'
+            ,'889017D7-3734-4406-BAEC-E41C6A490F9C'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('AF9E553E-FA01-4B6C-BA97-5982D5D8507F'
-           ,'8E03551B-8966-4DD3-B1CE-E1D39DBEF5CC'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('8D8721B7-E862-46E6-8AAB-3EF8604F2D54'
+            ,'889017D7-3734-4406-BAEC-E41C6A490F9C'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('3AEC5CFA-7DB0-4C4A-9310-5C231D7FB0A4'
-           ,'8E03551B-8966-4DD3-B1CE-E1D39DBEF5CC'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('0473F5AA-4BED-4D3C-B2DA-418D6DBC9ED3'
+            ,'889017D7-3734-4406-BAEC-E41C6A490F9C'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('8DBF7606-52D8-4E48-A838-61EF8923302A'
-           ,'8E03551B-8966-4DD3-B1CE-E1D39DBEF5CC'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('9C50FD32-620C-4E7F-A9F3-448B012C3455'
+            ,'889017D7-3734-4406-BAEC-E41C6A490F9C'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('F9FAF79A-4F2A-45F6-8842-6276F6BC298C'
-           ,'8E03551B-8966-4DD3-B1CE-E1D39DBEF5CC'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('D017BE58-270B-4728-A81A-4E931D647380'
+            ,'889017D7-3734-4406-BAEC-E41C6A490F9C'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('9006DD59-FD29-48FE-B8CD-67A3364F3492'
-           ,'8E03551B-8966-4DD3-B1CE-E1D39DBEF5CC'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('B926E6D1-CA79-4255-BE27-52112012B574'
+            ,'889017D7-3734-4406-BAEC-E41C6A490F9C'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('234C47CE-DE95-478B-B2A9-6818368CCB3B'
-           ,'8E03551B-8966-4DD3-B1CE-E1D39DBEF5CC'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('0A262FAE-BFFD-4B74-B0AA-5DD891B7D0CA'
+            ,'889017D7-3734-4406-BAEC-E41C6A490F9C'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('100CE7C1-3224-4C0C-BF8D-6B0F5E566B96'
-           ,'8E03551B-8966-4DD3-B1CE-E1D39DBEF5CC'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('5E82B1DF-DCD9-4EBF-A4BE-5E0611B7BBF7'
+            ,'889017D7-3734-4406-BAEC-E41C6A490F9C'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('FBC80B98-99FA-4387-AE48-440AB8FDD5CC'
-           ,'62101424-682D-45C4-828B-0D96BA6B2CE0'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('233CE6DF-E669-4FFE-9171-205D797279D1'
+            ,'80C9E905-1EB9-4F56-9914-EF79217F18ED'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('D9B873C1-8E86-4D8B-9465-4521F73F75C0'
-           ,'62101424-682D-45C4-828B-0D96BA6B2CE0'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('57315CF2-69AA-4879-933B-2062ECC9CA1F'
+            ,'80C9E905-1EB9-4F56-9914-EF79217F18ED'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('E66E42A2-D390-4D2E-A395-4C02F19B64DE'
-           ,'62101424-682D-45C4-828B-0D96BA6B2CE0'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('E32971AA-D56E-48D8-99E5-300F59642479'
+            ,'80C9E905-1EB9-4F56-9914-EF79217F18ED'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('AF9E553E-FA01-4B6C-BA97-5982D5D8507F'
-           ,'62101424-682D-45C4-828B-0D96BA6B2CE0'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('8D8721B7-E862-46E6-8AAB-3EF8604F2D54'
+            ,'80C9E905-1EB9-4F56-9914-EF79217F18ED'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('3AEC5CFA-7DB0-4C4A-9310-5C231D7FB0A4'
-           ,'62101424-682D-45C4-828B-0D96BA6B2CE0'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('0473F5AA-4BED-4D3C-B2DA-418D6DBC9ED3'
+            ,'80C9E905-1EB9-4F56-9914-EF79217F18ED'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('8DBF7606-52D8-4E48-A838-61EF8923302A'
-           ,'62101424-682D-45C4-828B-0D96BA6B2CE0'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('9C50FD32-620C-4E7F-A9F3-448B012C3455'
+            ,'80C9E905-1EB9-4F56-9914-EF79217F18ED'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('F9FAF79A-4F2A-45F6-8842-6276F6BC298C'
-           ,'62101424-682D-45C4-828B-0D96BA6B2CE0'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('D017BE58-270B-4728-A81A-4E931D647380'
+            ,'80C9E905-1EB9-4F56-9914-EF79217F18ED'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('9006DD59-FD29-48FE-B8CD-67A3364F3492'
-           ,'62101424-682D-45C4-828B-0D96BA6B2CE0'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('B926E6D1-CA79-4255-BE27-52112012B574'
+            ,'80C9E905-1EB9-4F56-9914-EF79217F18ED'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('234C47CE-DE95-478B-B2A9-6818368CCB3B'
-           ,'62101424-682D-45C4-828B-0D96BA6B2CE0'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('0A262FAE-BFFD-4B74-B0AA-5DD891B7D0CA'
+            ,'80C9E905-1EB9-4F56-9914-EF79217F18ED'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('100CE7C1-3224-4C0C-BF8D-6B0F5E566B96'
-           ,'62101424-682D-45C4-828B-0D96BA6B2CE0'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('5E82B1DF-DCD9-4EBF-A4BE-5E0611B7BBF7'
+            ,'80C9E905-1EB9-4F56-9914-EF79217F18ED'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('3BE48411-8D89-4593-899E-7102D8CB961B'
-           ,'B8C5C510-CFA2-437D-8A4A-E61D17032D2F'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('981B50BB-F4F6-4895-8EAE-5FA97658D1F5'
+            ,'E3DDDB49-7D51-4295-8E49-9A09A2BE5442'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('454374FE-07CC-4E01-BB0C-765EA5244DD2'
-           ,'B8C5C510-CFA2-437D-8A4A-E61D17032D2F'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('D44357E7-47D0-44F1-8679-683C5B0695B7'
+            ,'E3DDDB49-7D51-4295-8E49-9A09A2BE5442'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('C2EC812B-17EA-4E4A-9666-76E7147305A0'
-           ,'B8C5C510-CFA2-437D-8A4A-E61D17032D2F'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('1E4AC870-27B5-40E8-B1AE-6ED82600C7B0'
+            ,'E3DDDB49-7D51-4295-8E49-9A09A2BE5442'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('683F7CEF-B5C8-4AE6-8797-7A62E42171AD'
-           ,'B8C5C510-CFA2-437D-8A4A-E61D17032D2F'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('535C05C4-26E1-4872-996A-6EE36ADA275E'
+            ,'E3DDDB49-7D51-4295-8E49-9A09A2BE5442'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('0C291174-7A4B-4D46-996D-812D2D51B61D'
-           ,'B8C5C510-CFA2-437D-8A4A-E61D17032D2F'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('851EBA74-AC61-4143-A474-701E4B5CC4D0'
+            ,'E3DDDB49-7D51-4295-8E49-9A09A2BE5442'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('955F4CDD-57A9-4F02-BD19-8665FCD950BC'
-           ,'B8C5C510-CFA2-437D-8A4A-E61D17032D2F'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('1A175675-CF20-41AB-BFFD-7206431FA9D1'
+            ,'E3DDDB49-7D51-4295-8E49-9A09A2BE5442'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('BA165FF4-A130-4FEE-B2A4-89078F032F03'
-           ,'B8C5C510-CFA2-437D-8A4A-E61D17032D2F'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('0FB682B8-139C-4555-BFED-75640CD75D0E'
+            ,'E3DDDB49-7D51-4295-8E49-9A09A2BE5442'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('F30B2831-64A2-4C47-8872-8C01677373DB'
-           ,'B8C5C510-CFA2-437D-8A4A-E61D17032D2F'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('11C4B90E-8E21-41EF-A766-7597AD2BEA83'
+            ,'E3DDDB49-7D51-4295-8E49-9A09A2BE5442'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('B9F941CB-A47E-4F40-BBDE-90F1B57D3EFA'
-           ,'B8C5C510-CFA2-437D-8A4A-E61D17032D2F'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('6E0BB406-FDCA-4238-A747-78EAE7F3570A'
+            ,'E3DDDB49-7D51-4295-8E49-9A09A2BE5442'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('861022A5-9283-4EE3-A289-9493E0388045'
-           ,'B8C5C510-CFA2-437D-8A4A-E61D17032D2F'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('0A822C9E-1D95-4536-85CC-8029B18C9429'
+            ,'E3DDDB49-7D51-4295-8E49-9A09A2BE5442'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('3BE48411-8D89-4593-899E-7102D8CB961B'
-           ,'85AB66FB-61FF-4629-A56F-934C08E9C989'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('981B50BB-F4F6-4895-8EAE-5FA97658D1F5'
+            ,'DCD022EB-3AB2-46A8-A71B-6F82F90FE658'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('454374FE-07CC-4E01-BB0C-765EA5244DD2'
-           ,'85AB66FB-61FF-4629-A56F-934C08E9C989'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('D44357E7-47D0-44F1-8679-683C5B0695B7'
+            ,'DCD022EB-3AB2-46A8-A71B-6F82F90FE658'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('C2EC812B-17EA-4E4A-9666-76E7147305A0'
-           ,'85AB66FB-61FF-4629-A56F-934C08E9C989'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('1E4AC870-27B5-40E8-B1AE-6ED82600C7B0'
+            ,'DCD022EB-3AB2-46A8-A71B-6F82F90FE658'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('683F7CEF-B5C8-4AE6-8797-7A62E42171AD'
-           ,'85AB66FB-61FF-4629-A56F-934C08E9C989'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('535C05C4-26E1-4872-996A-6EE36ADA275E'
+            ,'DCD022EB-3AB2-46A8-A71B-6F82F90FE658'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('0C291174-7A4B-4D46-996D-812D2D51B61D'
-           ,'85AB66FB-61FF-4629-A56F-934C08E9C989'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('851EBA74-AC61-4143-A474-701E4B5CC4D0'
+            ,'DCD022EB-3AB2-46A8-A71B-6F82F90FE658'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('955F4CDD-57A9-4F02-BD19-8665FCD950BC'
-           ,'85AB66FB-61FF-4629-A56F-934C08E9C989'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('1A175675-CF20-41AB-BFFD-7206431FA9D1'
+            ,'DCD022EB-3AB2-46A8-A71B-6F82F90FE658'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('BA165FF4-A130-4FEE-B2A4-89078F032F03'
-           ,'85AB66FB-61FF-4629-A56F-934C08E9C989'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('0FB682B8-139C-4555-BFED-75640CD75D0E'
+            ,'DCD022EB-3AB2-46A8-A71B-6F82F90FE658'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('F30B2831-64A2-4C47-8872-8C01677373DB'
-           ,'85AB66FB-61FF-4629-A56F-934C08E9C989'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('11C4B90E-8E21-41EF-A766-7597AD2BEA83'
+            ,'DCD022EB-3AB2-46A8-A71B-6F82F90FE658'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('B9F941CB-A47E-4F40-BBDE-90F1B57D3EFA'
-           ,'85AB66FB-61FF-4629-A56F-934C08E9C989'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('6E0BB406-FDCA-4238-A747-78EAE7F3570A'
+            ,'DCD022EB-3AB2-46A8-A71B-6F82F90FE658'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('861022A5-9283-4EE3-A289-9493E0388045'
-           ,'85AB66FB-61FF-4629-A56F-934C08E9C989'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('0A822C9E-1D95-4536-85CC-8029B18C9429'
+            ,'DCD022EB-3AB2-46A8-A71B-6F82F90FE658'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('3BE48411-8D89-4593-899E-7102D8CB961B'
-           ,'D383AA03-836D-415C-9A17-EF93F1B3ABDF'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('981B50BB-F4F6-4895-8EAE-5FA97658D1F5'
+            ,'B7718AB3-BD23-4EDD-AEDA-66AA202A254B'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('454374FE-07CC-4E01-BB0C-765EA5244DD2'
-           ,'D383AA03-836D-415C-9A17-EF93F1B3ABDF'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('D44357E7-47D0-44F1-8679-683C5B0695B7'
+            ,'B7718AB3-BD23-4EDD-AEDA-66AA202A254B'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('C2EC812B-17EA-4E4A-9666-76E7147305A0'
-           ,'D383AA03-836D-415C-9A17-EF93F1B3ABDF'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('1E4AC870-27B5-40E8-B1AE-6ED82600C7B0'
+            ,'B7718AB3-BD23-4EDD-AEDA-66AA202A254B'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('683F7CEF-B5C8-4AE6-8797-7A62E42171AD'
-           ,'D383AA03-836D-415C-9A17-EF93F1B3ABDF'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('535C05C4-26E1-4872-996A-6EE36ADA275E'
+            ,'B7718AB3-BD23-4EDD-AEDA-66AA202A254B'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('0C291174-7A4B-4D46-996D-812D2D51B61D'
-           ,'D383AA03-836D-415C-9A17-EF93F1B3ABDF'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('851EBA74-AC61-4143-A474-701E4B5CC4D0'
+            ,'B7718AB3-BD23-4EDD-AEDA-66AA202A254B'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('955F4CDD-57A9-4F02-BD19-8665FCD950BC'
-           ,'D383AA03-836D-415C-9A17-EF93F1B3ABDF'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('1A175675-CF20-41AB-BFFD-7206431FA9D1'
+            ,'B7718AB3-BD23-4EDD-AEDA-66AA202A254B'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('BA165FF4-A130-4FEE-B2A4-89078F032F03'
-           ,'D383AA03-836D-415C-9A17-EF93F1B3ABDF'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('0FB682B8-139C-4555-BFED-75640CD75D0E'
+            ,'B7718AB3-BD23-4EDD-AEDA-66AA202A254B'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('F30B2831-64A2-4C47-8872-8C01677373DB'
-           ,'D383AA03-836D-415C-9A17-EF93F1B3ABDF'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('11C4B90E-8E21-41EF-A766-7597AD2BEA83'
+            ,'B7718AB3-BD23-4EDD-AEDA-66AA202A254B'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('B9F941CB-A47E-4F40-BBDE-90F1B57D3EFA'
-           ,'D383AA03-836D-415C-9A17-EF93F1B3ABDF'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('6E0BB406-FDCA-4238-A747-78EAE7F3570A'
+            ,'B7718AB3-BD23-4EDD-AEDA-66AA202A254B'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('861022A5-9283-4EE3-A289-9493E0388045'
-           ,'D383AA03-836D-415C-9A17-EF93F1B3ABDF'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('0A822C9E-1D95-4536-85CC-8029B18C9429'
+            ,'B7718AB3-BD23-4EDD-AEDA-66AA202A254B'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('3BE48411-8D89-4593-899E-7102D8CB961B'
-           ,'5F028AFF-1C8E-4693-9346-63DBC9A412FB'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('981B50BB-F4F6-4895-8EAE-5FA97658D1F5'
+            ,'D820BF1F-C56E-4A59-9573-1F943A538FD0'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('454374FE-07CC-4E01-BB0C-765EA5244DD2'
-           ,'5F028AFF-1C8E-4693-9346-63DBC9A412FB'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('D44357E7-47D0-44F1-8679-683C5B0695B7'
+            ,'D820BF1F-C56E-4A59-9573-1F943A538FD0'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('C2EC812B-17EA-4E4A-9666-76E7147305A0'
-           ,'5F028AFF-1C8E-4693-9346-63DBC9A412FB'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('1E4AC870-27B5-40E8-B1AE-6ED82600C7B0'
+            ,'D820BF1F-C56E-4A59-9573-1F943A538FD0'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('683F7CEF-B5C8-4AE6-8797-7A62E42171AD'
-           ,'5F028AFF-1C8E-4693-9346-63DBC9A412FB'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('535C05C4-26E1-4872-996A-6EE36ADA275E'
+            ,'D820BF1F-C56E-4A59-9573-1F943A538FD0'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('0C291174-7A4B-4D46-996D-812D2D51B61D'
-           ,'5F028AFF-1C8E-4693-9346-63DBC9A412FB'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('851EBA74-AC61-4143-A474-701E4B5CC4D0'
+            ,'D820BF1F-C56E-4A59-9573-1F943A538FD0'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('955F4CDD-57A9-4F02-BD19-8665FCD950BC'
-           ,'5F028AFF-1C8E-4693-9346-63DBC9A412FB'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('1A175675-CF20-41AB-BFFD-7206431FA9D1'
+            ,'D820BF1F-C56E-4A59-9573-1F943A538FD0'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('BA165FF4-A130-4FEE-B2A4-89078F032F03'
-           ,'5F028AFF-1C8E-4693-9346-63DBC9A412FB'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('0FB682B8-139C-4555-BFED-75640CD75D0E'
+            ,'D820BF1F-C56E-4A59-9573-1F943A538FD0'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('F30B2831-64A2-4C47-8872-8C01677373DB'
-           ,'5F028AFF-1C8E-4693-9346-63DBC9A412FB'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('11C4B90E-8E21-41EF-A766-7597AD2BEA83'
+            ,'D820BF1F-C56E-4A59-9573-1F943A538FD0'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('B9F941CB-A47E-4F40-BBDE-90F1B57D3EFA'
-           ,'5F028AFF-1C8E-4693-9346-63DBC9A412FB'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('6E0BB406-FDCA-4238-A747-78EAE7F3570A'
+            ,'D820BF1F-C56E-4A59-9573-1F943A538FD0'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('861022A5-9283-4EE3-A289-9493E0388045'
-           ,'5F028AFF-1C8E-4693-9346-63DBC9A412FB'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('0A822C9E-1D95-4536-85CC-8029B18C9429'
+            ,'D820BF1F-C56E-4A59-9573-1F943A538FD0'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('8BB66A2B-7EC8-4A76-80E1-A8FCF8CA1C8A'
-           ,'B525E608-165E-48F6-8F3F-8FCA603D4B18'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('1030B8D6-9898-4034-83BF-867CC912CC1B'
+            ,'369FC788-1071-440C-8459-99820796770D'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('D38803DA-EB6D-4469-8888-B7442C7D054C'
-           ,'B525E608-165E-48F6-8F3F-8FCA603D4B18'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('33BB7772-7FDE-40E7-A017-8EA831A77697'
+            ,'369FC788-1071-440C-8459-99820796770D'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('E2C5C427-5709-45C7-AB7E-B8C2F11E5C33'
-           ,'B525E608-165E-48F6-8F3F-8FCA603D4B18'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('567AF339-5573-44BB-B601-93309A2C7132'
+            ,'369FC788-1071-440C-8459-99820796770D'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('5B863FBF-8C9B-49AC-889D-BB71DF8A09AB'
-           ,'B525E608-165E-48F6-8F3F-8FCA603D4B18'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('6E96677F-181D-4346-AABA-943331CFBD0A'
+            ,'369FC788-1071-440C-8459-99820796770D'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('64382312-F4B5-41E8-83F5-C1242B98C6C6'
-           ,'B525E608-165E-48F6-8F3F-8FCA603D4B18'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('78A0CD66-32E8-46D4-849A-96900F2038BC'
+            ,'369FC788-1071-440C-8459-99820796770D'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('5C9DC00D-7D6E-47A3-861F-C1CDE2D2641B'
-           ,'B525E608-165E-48F6-8F3F-8FCA603D4B18'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('E06CF820-7BF4-44FE-B1C5-9C2EECF387C2'
+            ,'369FC788-1071-440C-8459-99820796770D'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('6385143E-103B-43C2-B554-C7EB7AF37C44'
-           ,'B525E608-165E-48F6-8F3F-8FCA603D4B18'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('BA5C0241-8D19-465B-B581-9D9ED3AB9B7C'
+            ,'369FC788-1071-440C-8459-99820796770D'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('4653F875-07C4-43DC-B3C2-CC4B8A54F274'
-           ,'B525E608-165E-48F6-8F3F-8FCA603D4B18'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('E13C52E1-7D84-46C5-A125-AA98208F92B9'
+            ,'369FC788-1071-440C-8459-99820796770D'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('ECBD62EB-6976-4BE4-98AA-CEDB94065093'
-           ,'B525E608-165E-48F6-8F3F-8FCA603D4B18'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('5191DC5F-043E-403C-9934-B42D5F8E4A1A'
+            ,'369FC788-1071-440C-8459-99820796770D'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('9AA96F66-0D9E-4A69-AE09-D049C427CFD1'
-           ,'B525E608-165E-48F6-8F3F-8FCA603D4B18'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('4DC6F997-5DD3-44D2-BD01-BA64C0C07210'
+            ,'369FC788-1071-440C-8459-99820796770D'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('8BB66A2B-7EC8-4A76-80E1-A8FCF8CA1C8A'
-           ,'B9F90E8F-0DDB-483F-ACC0-6E3812E3728F'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('1030B8D6-9898-4034-83BF-867CC912CC1B'
+            ,'44ED121F-178D-4D92-8D6C-4051A994FCF0'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('D38803DA-EB6D-4469-8888-B7442C7D054C'
-           ,'B9F90E8F-0DDB-483F-ACC0-6E3812E3728F'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('33BB7772-7FDE-40E7-A017-8EA831A77697'
+            ,'44ED121F-178D-4D92-8D6C-4051A994FCF0'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('E2C5C427-5709-45C7-AB7E-B8C2F11E5C33'
-           ,'B9F90E8F-0DDB-483F-ACC0-6E3812E3728F'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('567AF339-5573-44BB-B601-93309A2C7132'
+            ,'44ED121F-178D-4D92-8D6C-4051A994FCF0'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('5B863FBF-8C9B-49AC-889D-BB71DF8A09AB'
-           ,'B9F90E8F-0DDB-483F-ACC0-6E3812E3728F'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('6E96677F-181D-4346-AABA-943331CFBD0A'
+            ,'44ED121F-178D-4D92-8D6C-4051A994FCF0'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('64382312-F4B5-41E8-83F5-C1242B98C6C6'
-           ,'B9F90E8F-0DDB-483F-ACC0-6E3812E3728F'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('78A0CD66-32E8-46D4-849A-96900F2038BC'
+            ,'44ED121F-178D-4D92-8D6C-4051A994FCF0'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('5C9DC00D-7D6E-47A3-861F-C1CDE2D2641B'
-           ,'B9F90E8F-0DDB-483F-ACC0-6E3812E3728F'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('E06CF820-7BF4-44FE-B1C5-9C2EECF387C2'
+            ,'44ED121F-178D-4D92-8D6C-4051A994FCF0'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('6385143E-103B-43C2-B554-C7EB7AF37C44'
-           ,'B9F90E8F-0DDB-483F-ACC0-6E3812E3728F'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('BA5C0241-8D19-465B-B581-9D9ED3AB9B7C'
+            ,'44ED121F-178D-4D92-8D6C-4051A994FCF0'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('4653F875-07C4-43DC-B3C2-CC4B8A54F274'
-           ,'B9F90E8F-0DDB-483F-ACC0-6E3812E3728F'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('E13C52E1-7D84-46C5-A125-AA98208F92B9'
+            ,'44ED121F-178D-4D92-8D6C-4051A994FCF0'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('ECBD62EB-6976-4BE4-98AA-CEDB94065093'
-           ,'B9F90E8F-0DDB-483F-ACC0-6E3812E3728F'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('5191DC5F-043E-403C-9934-B42D5F8E4A1A'
+            ,'44ED121F-178D-4D92-8D6C-4051A994FCF0'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('9AA96F66-0D9E-4A69-AE09-D049C427CFD1'
-           ,'B9F90E8F-0DDB-483F-ACC0-6E3812E3728F'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('4DC6F997-5DD3-44D2-BD01-BA64C0C07210'
+            ,'44ED121F-178D-4D92-8D6C-4051A994FCF0'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('BB7B6C4B-65C8-45A5-872F-D2BE2B8EF13A'
-           ,'C6A27FD0-83DD-4DFF-BF47-6748CD417CDC'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('FAB6AB1F-7AED-4802-9FD6-C92456110D4E'
+            ,'DED86A13-247D-4A44-81EE-2AA48998043A'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('12B07DCE-3180-432E-9ECD-D5C395B90217'
-           ,'C6A27FD0-83DD-4DFF-BF47-6748CD417CDC'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('5949C179-D156-495D-88BC-CA182C61496F'
+            ,'DED86A13-247D-4A44-81EE-2AA48998043A'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('17FCBCCD-0A71-44EC-9364-DEB365537858'
-           ,'C6A27FD0-83DD-4DFF-BF47-6748CD417CDC'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('CFC7EF8A-C371-41C3-9B5C-CFD214D58CC5'
+            ,'DED86A13-247D-4A44-81EE-2AA48998043A'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('17EDAE0D-776A-4098-8736-E0DD6B628657'
-           ,'C6A27FD0-83DD-4DFF-BF47-6748CD417CDC'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('8F119E21-3E0F-4F39-BBB8-D82A5F5F8C13'
+            ,'DED86A13-247D-4A44-81EE-2AA48998043A'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('45918898-9032-4902-850F-EC5A2687737A'
-           ,'C6A27FD0-83DD-4DFF-BF47-6748CD417CDC'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('E86A4F99-07CA-439F-8166-E2C589D8EAD1'
+            ,'DED86A13-247D-4A44-81EE-2AA48998043A'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('7E1101EF-4B26-4CA8-83B5-EED3626C9A35'
-           ,'C6A27FD0-83DD-4DFF-BF47-6748CD417CDC'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('2DE71CF1-9C00-4EB0-BE0C-E3D1B6A82AAC'
+            ,'DED86A13-247D-4A44-81EE-2AA48998043A'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('315392CD-E754-4CFF-9AD2-F0288E864230'
-           ,'C6A27FD0-83DD-4DFF-BF47-6748CD417CDC'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('2B02CBA1-8A65-4DE7-BAC6-EAA6F027D830'
+            ,'DED86A13-247D-4A44-81EE-2AA48998043A'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('54CA5986-6179-4D56-9E07-F8A655EA36BE'
-           ,'C6A27FD0-83DD-4DFF-BF47-6748CD417CDC'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('03AE60FD-4657-4559-B022-EC63F50720D2'
+            ,'DED86A13-247D-4A44-81EE-2AA48998043A'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('5EE2F72A-5CFD-4B46-9598-F8F35C2639F4'
-           ,'C6A27FD0-83DD-4DFF-BF47-6748CD417CDC'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('E818BBF5-23DB-4C8C-97DE-F03B36DB4434'
+            ,'DED86A13-247D-4A44-81EE-2AA48998043A'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('6B1B7B3C-30C1-4D0D-B9E2-FDA18B205C89'
-           ,'C6A27FD0-83DD-4DFF-BF47-6748CD417CDC'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('FDB35151-C160-42D0-8DDF-F783393ADD2E'
+            ,'DED86A13-247D-4A44-81EE-2AA48998043A'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('BB7B6C4B-65C8-45A5-872F-D2BE2B8EF13A'
-           ,'BD96031B-9418-47C7-BEA0-F6B14B30CFD8'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('FAB6AB1F-7AED-4802-9FD6-C92456110D4E'
+            ,'CAAE3651-752C-4701-A28B-EC4276D1F21B'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('12B07DCE-3180-432E-9ECD-D5C395B90217'
-           ,'BD96031B-9418-47C7-BEA0-F6B14B30CFD8'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('5949C179-D156-495D-88BC-CA182C61496F'
+            ,'CAAE3651-752C-4701-A28B-EC4276D1F21B'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('17FCBCCD-0A71-44EC-9364-DEB365537858'
-           ,'BD96031B-9418-47C7-BEA0-F6B14B30CFD8'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('CFC7EF8A-C371-41C3-9B5C-CFD214D58CC5'
+            ,'CAAE3651-752C-4701-A28B-EC4276D1F21B'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('17EDAE0D-776A-4098-8736-E0DD6B628657'
-           ,'BD96031B-9418-47C7-BEA0-F6B14B30CFD8'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('8F119E21-3E0F-4F39-BBB8-D82A5F5F8C13'
+            ,'CAAE3651-752C-4701-A28B-EC4276D1F21B'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('45918898-9032-4902-850F-EC5A2687737A'
-           ,'BD96031B-9418-47C7-BEA0-F6B14B30CFD8'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('E86A4F99-07CA-439F-8166-E2C589D8EAD1'
+            ,'CAAE3651-752C-4701-A28B-EC4276D1F21B'
+            ,0)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('7E1101EF-4B26-4CA8-83B5-EED3626C9A35'
-           ,'BD96031B-9418-47C7-BEA0-F6B14B30CFD8'
-           ,0)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('2DE71CF1-9C00-4EB0-BE0C-E3D1B6A82AAC'
+            ,'CAAE3651-752C-4701-A28B-EC4276D1F21B'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('315392CD-E754-4CFF-9AD2-F0288E864230'
-           ,'BD96031B-9418-47C7-BEA0-F6B14B30CFD8'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('2B02CBA1-8A65-4DE7-BAC6-EAA6F027D830'
+            ,'CAAE3651-752C-4701-A28B-EC4276D1F21B'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('54CA5986-6179-4D56-9E07-F8A655EA36BE'
-           ,'BD96031B-9418-47C7-BEA0-F6B14B30CFD8'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('03AE60FD-4657-4559-B022-EC63F50720D2'
+            ,'CAAE3651-752C-4701-A28B-EC4276D1F21B'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('5EE2F72A-5CFD-4B46-9598-F8F35C2639F4'
-           ,'BD96031B-9418-47C7-BEA0-F6B14B30CFD8'
-           ,1)
-GO
-INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
+           ('E818BBF5-23DB-4C8C-97DE-F03B36DB4434'
+            ,'CAAE3651-752C-4701-A28B-EC4276D1F21B'
+            ,1)
+Go
+     INSERT INTO [dbo].[NetworkSection2ObjectHeatConsum]
            ([network_section_id]
            ,[object_heat_consum_id]
            ,[is_inside])
      VALUES
-           ('6B1B7B3C-30C1-4D0D-B9E2-FDA18B205C89'
-           ,'BD96031B-9418-47C7-BEA0-F6B14B30CFD8'
-           ,1)
-GO
-
-
-
+           ('FDB35151-C160-42D0-8DDF-F783393ADD2E'
+            ,'CAAE3651-752C-4701-A28B-EC4276D1F21B'
+            ,1)
+Go
