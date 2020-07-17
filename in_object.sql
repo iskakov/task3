@@ -8,11 +8,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('BD757698-69CB-4341-81E2-DF415A182F08'
+           ,'协孝袪袗袠肖'
            ,'23.05.2018'
-           ,'6A1B59CD-5331-4EEF-8FD4-21D335D67050'
-           ,'0E8C5F87-0EC2-42B1-A6A1-55B2A05A8277')
+           ,'d46ac640-2665-44ce-bf01-0856995f73f2'
+           ,'f62f791f-4a8d-4f4c-9060-348dabcd11aa')
 GO
 INSERT INTO [dbo].[ObjectHeatConsumption]
            ([primarykey]
@@ -21,11 +21,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('44ED121F-178D-4D92-8D6C-4051A994FCF0'
+           ,'袨袝孝袨笑楔'
            ,'18.04.2018'
-           ,'DC8CE1A9-4C3C-4788-894A-572E8955C4FE'
-           ,'F84E2CB4-F719-4110-9DEF-88A696648AD1')
+           ,'da34972f-733b-4b2d-9e5e-0aad19803b62'
+           ,'6b217559-a0f7-4d23-b4ca-5bc7a0f67bbc')
 GO
 INSERT INTO [dbo].[ObjectHeatConsumption]
            ([primarykey]
@@ -34,11 +34,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('8B004285-0FDD-4773-8040-2DCFBA412D67'
+           ,'袩校楔袪袘孝'
            ,'02.10.2020'
-           ,'6A1B59CD-5331-4EEF-8FD4-21D335D67050'
-           ,'54D3CC66-BE30-400F-B252-A31D5C27AE35')
+           ,'d46ac640-2665-44ce-bf01-0856995f73f2'
+           ,'fa7d13d6-6364-4106-92b8-7882a79cf439')
 GO
 INSERT INTO [dbo].[ObjectHeatConsumption]
            ([primarykey]
@@ -47,11 +47,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('24E29549-BB95-442F-8260-68A0E9D42060'
+           ,'携袝携袪些袛'
            ,'10.09.2020'
-           ,'6A1B59CD-5331-4EEF-8FD4-21D335D67050'
-           ,'FE1C82E5-5A2D-44E6-A790-A988AC1F3404')
+           ,'d46ac640-2665-44ce-bf01-0856995f73f2'
+           ,'4b0465a6-e691-47f3-b1d8-7a6b853cee2f')
 GO
 INSERT INTO [dbo].[ObjectHeatConsumption]
            ([primarykey]
@@ -60,11 +60,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('DED86A13-247D-4A44-81EE-2AA48998043A'
+           ,'袛袩携袠袘啸'
            ,'11.08.2019'
-           ,'DC8CE1A9-4C3C-4788-894A-572E8955C4FE'
-           ,'1F3F8C65-04F9-45D9-B259-87852A067FAB')
+           ,'da34972f-733b-4b2d-9e5e-0aad19803b62'
+           ,'4273e949-07b1-4675-b9b0-92909170110c')
 GO
 INSERT INTO [dbo].[ObjectHeatConsumption]
            ([primarykey]
@@ -73,11 +73,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('CAAE3651-752C-4701-A28B-EC4276D1F21B'
+           ,'肖袣挟袨袟袟'
            ,'03.11.2019'
-           ,'D4F0CC52-224D-4035-A39A-23517E92DCD1'
-           ,'1F3F8C65-04F9-45D9-B259-87852A067FAB')
+           ,'70a2dfa4-0367-42cf-a7a2-1410bf231a92'
+           ,'4273e949-07b1-4675-b9b0-92909170110c')
 GO
 INSERT INTO [dbo].[ObjectHeatConsumption]
            ([primarykey]
@@ -86,11 +86,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('B7718AB3-BD23-4EDD-AEDA-66AA202A254B'
+           ,'袪楔袝袞肖小'
            ,'18.03.2019'
-           ,'12663B9A-9543-4726-B904-71F70FB4EB8D'
-           ,'B49A370C-E944-4363-AFB7-B8B563260D16')
+           ,'a5e1c914-f0d6-488d-a597-80b97250173c'
+           ,'01d59601-bf69-4ae1-ad30-b6af9c21344a')
 GO
 INSERT INTO [dbo].[ObjectHeatConsumption]
            ([primarykey]
@@ -99,11 +99,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('E3DDDB49-7D51-4295-8E49-9A09A2BE5442'
+           ,'袥袧啸袪袦小'
            ,'16.08.2020'
-           ,'12663B9A-9543-4726-B904-71F70FB4EB8D'
-           ,'B49A370C-E944-4363-AFB7-B8B563260D16')
+           ,'a5e1c914-f0d6-488d-a597-80b97250173c'
+           ,'01d59601-bf69-4ae1-ad30-b6af9c21344a')
 GO
 INSERT INTO [dbo].[ObjectHeatConsumption]
            ([primarykey]
@@ -112,11 +112,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('369FC788-1071-440C-8459-99820796770D'
+           ,'袩协袟携袨袟'
            ,'27.01.2019'
-           ,'12663B9A-9543-4726-B904-71F70FB4EB8D'
-           ,'F84E2CB4-F719-4110-9DEF-88A696648AD1')
+           ,'a5e1c914-f0d6-488d-a597-80b97250173c'
+           ,'6b217559-a0f7-4d23-b4ca-5bc7a0f67bbc')
 GO
 INSERT INTO [dbo].[ObjectHeatConsumption]
            ([primarykey]
@@ -125,11 +125,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('1097480E-2689-45C3-BF0A-71E8FC4D014E'
+           ,'袧袣笑袦楔笑'
            ,'23.11.2019'
-           ,'D4F0CC52-224D-4035-A39A-23517E92DCD1'
-           ,'6D05DFAD-BD67-48F8-A9CA-2E507CC0496D')
+           ,'70a2dfa4-0367-42cf-a7a2-1410bf231a92'
+           ,'6D41C851-640F-43D5-8B2C-B78745BE5565')
 GO
 INSERT INTO [dbo].[ObjectHeatConsumption]
            ([primarykey]
@@ -138,11 +138,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('92AEE48F-1EC4-4098-A505-1B3D2B8F5433'
+           ,'啸袛袛协啸袧'
            ,'26.08.2018'
-           ,'12663B9A-9543-4726-B904-71F70FB4EB8D'
-           ,'0E8C5F87-0EC2-42B1-A6A1-55B2A05A8277')
+           ,'a5e1c914-f0d6-488d-a597-80b97250173c'
+           ,'f62f791f-4a8d-4f4c-9060-348dabcd11aa')
 GO
 INSERT INTO [dbo].[ObjectHeatConsumption]
            ([primarykey]
@@ -151,11 +151,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('889017D7-3734-4406-BAEC-E41C6A490F9C'
+           ,'些袗袦袪携袞'
            ,'01.01.2020'
-           ,'12663B9A-9543-4726-B904-71F70FB4EB8D'
-           ,'FE1C82E5-5A2D-44E6-A790-A988AC1F3404')
+           ,'a5e1c914-f0d6-488d-a597-80b97250173c'
+           ,'4b0465a6-e691-47f3-b1d8-7a6b853cee2f')
 GO
 INSERT INTO [dbo].[ObjectHeatConsumption]
            ([primarykey]
@@ -164,11 +164,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('DCD022EB-3AB2-46A8-A71B-6F82F90FE658'
+           ,'袦啸袧袣袛袦'
            ,'06.03.2018'
-           ,'D4F0CC52-224D-4035-A39A-23517E92DCD1'
-           ,'B49A370C-E944-4363-AFB7-B8B563260D16')
+           ,'70a2dfa4-0367-42cf-a7a2-1410bf231a92'
+           ,'01d59601-bf69-4ae1-ad30-b6af9c21344a')
 GO
 INSERT INTO [dbo].[ObjectHeatConsumption]
            ([primarykey]
@@ -177,11 +177,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('80C9E905-1EB9-4F56-9914-EF79217F18ED'
+           ,'袥袪袙袥啸袚'
            ,'13.03.2019'
-           ,'6A1B59CD-5331-4EEF-8FD4-21D335D67050'
-           ,'FE1C82E5-5A2D-44E6-A790-A988AC1F3404')
+           ,'d46ac640-2665-44ce-bf01-0856995f73f2'
+           ,'4b0465a6-e691-47f3-b1d8-7a6b853cee2f')
 GO
 INSERT INTO [dbo].[ObjectHeatConsumption]
            ([primarykey]
@@ -190,11 +190,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('F93953AE-8D0C-40BF-AF13-956CEA40128C'
+           ,'袨啸楔孝袘协'
            ,'22.02.2020'
-           ,'6A1B59CD-5331-4EEF-8FD4-21D335D67050'
-           ,'0E8C5F87-0EC2-42B1-A6A1-55B2A05A8277')
+           ,'d46ac640-2665-44ce-bf01-0856995f73f2'
+           ,'f62f791f-4a8d-4f4c-9060-348dabcd11aa')
 GO
 INSERT INTO [dbo].[ObjectHeatConsumption]
            ([primarykey]
@@ -203,11 +203,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('D820BF1F-C56E-4A59-9573-1F943A538FD0'
+           ,'袨袛携袥袨袩'
            ,'21.08.2019'
-           ,'D4F0CC52-224D-4035-A39A-23517E92DCD1'
-           ,'B49A370C-E944-4363-AFB7-B8B563260D16')
+           ,'70a2dfa4-0367-42cf-a7a2-1410bf231a92'
+           ,'01d59601-bf69-4ae1-ad30-b6af9c21344a')
 GO
 INSERT INTO [dbo].[ObjectHeatConsumption]
            ([primarykey]
@@ -216,11 +216,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('2CB1ABEE-14E8-4A49-8C9A-6C61523846D3'
+           ,'袧袨校袠肖袦'
            ,'21.02.2020'
-           ,'D4F0CC52-224D-4035-A39A-23517E92DCD1'
-           ,'6D05DFAD-BD67-48F8-A9CA-2E507CC0496D')
+           ,'70a2dfa4-0367-42cf-a7a2-1410bf231a92'
+           ,'6D41C851-640F-43D5-8B2C-B78745BE5565')
 GO
 INSERT INTO [dbo].[ObjectHeatConsumption]
            ([primarykey]
@@ -229,11 +229,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('4C03B85B-C50A-4686-90DE-F28E403669DD'
+           ,'袛挟协袗袩肖'
            ,'03.04.2020'
-           ,'D4F0CC52-224D-4035-A39A-23517E92DCD1'
-           ,'0E8C5F87-0EC2-42B1-A6A1-55B2A05A8277')
+           ,'70a2dfa4-0367-42cf-a7a2-1410bf231a92'
+           ,'f62f791f-4a8d-4f4c-9060-348dabcd11aa')
 GO
 INSERT INTO [dbo].[ObjectHeatConsumption]
            ([primarykey]
@@ -242,11 +242,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('E4E4B652-52A5-4747-8888-E3852D051FB1'
+           ,'楔袙袛袣袗袟'
            ,'25.08.2020'
-           ,'DC8CE1A9-4C3C-4788-894A-572E8955C4FE'
-           ,'FE1C82E5-5A2D-44E6-A790-A988AC1F3404')
+           ,'da34972f-733b-4b2d-9e5e-0aad19803b62'
+           ,'4b0465a6-e691-47f3-b1d8-7a6b853cee2f')
 GO
 INSERT INTO [dbo].[ObjectHeatConsumption]
            ([primarykey]
@@ -255,11 +255,11 @@ INSERT INTO [dbo].[ObjectHeatConsumption]
            ,[consumer_id]
            ,[building_id])
      VALUES
-           (NEWID()
-           ,'人孛事'
+           ('2D041057-AF87-4824-9CCE-3B43DAECCA97'
+           ,'肖袣袦袗袥携'
            ,'18.10.2018'
-           ,'12663B9A-9543-4726-B904-71F70FB4EB8D'
-           ,'04A02EFA-19E6-44E6-8211-28AAC0EC21DF')
+           ,'a5e1c914-f0d6-488d-a597-80b97250173c'
+           ,'943016a2-4408-4497-94f6-d81cbe295d38')
 GO
 
 
