@@ -5,36 +5,36 @@ INSERT INTO [dbo].[NetworkArea]
            ([primarykey]
            ,[name])
      VALUES
-           (NEWID(),
-           '–‡ÈÓÌ π1')
+           ('96eb82c2-6f28-484e-bbad-f44a43b6dcde',
+           '–†–∞–π–æ–Ω ‚Ññ1')
 GO
 INSERT INTO [dbo].[NetworkArea]
            ([primarykey]
            ,[name])
      VALUES
-           (NEWID(),
-           '–‡ÈÓÌ π2')
+           ('50f15f5d-1a33-476b-bb54-5a1d2666f78e',
+           '–†–∞–π–æ–Ω ‚Ññ2')
 GO
 INSERT INTO [dbo].[NetworkArea]
            ([primarykey]
            ,[name])
      VALUES
-           (NEWID(),
-           '–‡ÈÓÌ π3')
+           ('f05d5dfe-6c50-46c7-ac9e-62b3ec7d71c7',
+           '–†–∞–π–æ–Ω ‚Ññ3')
 GO
 INSERT INTO [dbo].[NetworkArea]
            ([primarykey]
            ,[name])
      VALUES
-           (NEWID(),
-           '–‡ÈÓÌ π4')
+           ('35c27bf7-962a-4ebd-a640-fc15e039c45f',
+           '–†–∞–π–æ–Ω ‚Ññ4')
 GO
 INSERT INTO [dbo].[NetworkArea]
            ([primarykey]
            ,[name])
      VALUES
-           (NEWID(),
-           '–‡ÈÓÌ π5')
+           ('d9b28caf-aac8-4986-8768-313803077ec9',
+           '–†–∞–π–æ–Ω ‚Ññ5')
 GO
 
 
