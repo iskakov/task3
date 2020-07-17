@@ -5,20 +5,20 @@ INSERT INTO [dbo].[TypePipeline]
            ([primarykey]
            ,[name])
      VALUES
-           (NEWID()
-           ,'Надземная')
+           ('5a9e1bfc-dd30-4868-b205-c602e9056858'
+           ,'РќР°РґР·РµРјРЅР°СЏ')
 GO
 INSERT INTO [dbo].[TypePipeline]
            ([primarykey]
            ,[name])
      VALUES
-           (NEWID()
-           ,'Подземная')
+           ('1547accb-cf69-4f0c-a62e-b367d0730594'
+           ,'РџРѕРґР·РµРјРЅР°СЏ')
 GO
 INSERT INTO [dbo].[TypePipeline]
            ([primarykey]
            ,[name])
      VALUES
-           (NEWID()
-           ,'По подвалу')
+           ('2daf87a1-cf3b-4615-bfae-2a820f49a384'
+           ,'РџРѕ РїРѕРґРІР°Р»Сѓ')
 GO
