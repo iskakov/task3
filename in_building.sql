@@ -8,11 +8,11 @@ INSERT INTO [dbo].[Building]
            ,[number]
            ,[network_area_id])
      VALUES
-           (NEWID()
-           ,'Пермь'
-           ,'Пушкина'
+           ('4d74b323-ec4d-4f44-854b-de53b8959c00'
+           ,'РџРµСЂРјСЊ'
+           ,'РџСѓС€РєРёРЅР°'
            ,1
-           ,'E1BBD31B-D895-4039-8F25-0754D12BF040')
+           ,'96eb82c2-6f28-484e-bbad-f44a43b6dcde')
 GO
 INSERT INTO [dbo].[Building]
            ([primarykey]
@@ -21,11 +21,11 @@ INSERT INTO [dbo].[Building]
            ,[number]
            ,[network_area_id])
      VALUES
-           (NEWID()
-           ,'Пермь'
-           ,'Пушкина'
+           ('fa7d13d6-6364-4106-92b8-7882a79cf439'
+           ,'РџРµСЂРјСЊ'
+           ,'РџСѓС€РєРёРЅР°'
            ,2
-           ,'E1BBD31B-D895-4039-8F25-0754D12BF040')
+           ,'96eb82c2-6f28-484e-bbad-f44a43b6dcde')
 GO
 INSERT INTO [dbo].[Building]
            ([primarykey]
@@ -34,11 +34,11 @@ INSERT INTO [dbo].[Building]
            ,[number]
            ,[network_area_id])
      VALUES
-           (NEWID()
-           ,'Пермь'
-           ,'Пушкина'
+           ('6d41c851-640f-43d5-8b2c-b78745be5565'
+           ,'РџРµСЂРјСЊ'
+           ,'РџСѓС€РєРёРЅР°'
            ,3
-           ,'E1BBD31B-D895-4039-8F25-0754D12BF040')
+           ,'96eb82c2-6f28-484e-bbad-f44a43b6dcde')
 GO
 INSERT INTO [dbo].[Building]
            ([primarykey]
@@ -47,11 +47,11 @@ INSERT INTO [dbo].[Building]
            ,[number]
            ,[network_area_id])
      VALUES
-           (NEWID()
-           ,'Пермь'
-           ,'Ленина'
+           ('e6ed73bd-ecfa-4e43-9fe3-fce795535e18'
+           ,'РџРµСЂРјСЊ'
+           ,'Р›РµРЅРёРЅР°'
            ,1
-           ,'E1BBD31B-D895-4039-8F25-0754D12BF040')
+           ,'96eb82c2-6f28-484e-bbad-f44a43b6dcde')
 GO
 INSERT INTO [dbo].[Building]
            ([primarykey]
@@ -60,11 +60,11 @@ INSERT INTO [dbo].[Building]
            ,[number]
            ,[network_area_id])
      VALUES
-           (NEWID()
-           ,'Пермь'
-           ,'Ленина'
+           ('4b0465a6-e691-47f3-b1d8-7a6b853cee2f'
+           ,'РџРµСЂРјСЊ'
+           ,'Р›РµРЅРёРЅР°'
            ,2
-           ,'E1BBD31B-D895-4039-8F25-0754D12BF040')
+           ,'96eb82c2-6f28-484e-bbad-f44a43b6dcde')
 GO
 
 INSERT INTO [dbo].[Building]
@@ -74,11 +74,11 @@ INSERT INTO [dbo].[Building]
            ,[number]
            ,[network_area_id])
      VALUES
-           (NEWID()
-           ,'Пермь'
-           ,'Ленина'
+           ('426d5f44-0f0e-45ca-a551-de33fdf16adc'
+           ,'РџРµСЂРјСЊ'
+           ,'Р›РµРЅРёРЅР°'
            ,5
-           ,'85E258F4-6201-474E-8036-52DF48D18553')
+           ,'f05d5dfe-6c50-46c7-ac9e-62b3ec7d71c7')
 GO
 INSERT INTO [dbo].[Building]
            ([primarykey]
@@ -87,11 +87,11 @@ INSERT INTO [dbo].[Building]
            ,[number]
            ,[network_area_id])
      VALUES
-           (NEWID()
-           ,'Пермь'
-           ,'Ленина'
+           ('01d59601-bf69-4ae1-ad30-b6af9c21344a'
+           ,'РџРµСЂРјСЊ'
+           ,'Р›РµРЅРёРЅР°'
            ,6
-           ,'85E258F4-6201-474E-8036-52DF48D18553')
+           ,'f05d5dfe-6c50-46c7-ac9e-62b3ec7d71c7')
 GO
 INSERT INTO [dbo].[Building]
            ([primarykey]
@@ -100,11 +100,11 @@ INSERT INTO [dbo].[Building]
            ,[number]
            ,[network_area_id])
      VALUES
-           (NEWID()
-           ,'Пермь'
-           ,'Ленина'
+           ('f62f791f-4a8d-4f4c-9060-348dabcd11aa'
+           ,'РџРµСЂРјСЊ'
+           ,'Р›РµРЅРёРЅР°'
            ,7
-           ,'85E258F4-6201-474E-8036-52DF48D18553')
+           ,'f05d5dfe-6c50-46c7-ac9e-62b3ec7d71c7')
 GO
 
 INSERT INTO [dbo].[Building]
@@ -114,11 +114,11 @@ INSERT INTO [dbo].[Building]
            ,[number]
            ,[network_area_id])
      VALUES
-           (NEWID()
-           ,'Пермь'
-           ,'Мира'
+           ('6b217559-a0f7-4d23-b4ca-5bc7a0f67bbc'
+           ,'РџРµСЂРјСЊ'
+           ,'РњРёСЂР°'
            ,8
-           ,'0C780487-5C03-456E-A981-73A54516A6D1')
+           ,'d9b28caf-aac8-4986-8768-313803077ec9')
 GO
 
 INSERT INTO [dbo].[Building]
@@ -128,11 +128,11 @@ INSERT INTO [dbo].[Building]
            ,[number]
            ,[network_area_id])
      VALUES
-           (NEWID()
-           ,'Пермь'
-           ,'Мира'
+           ('4273e949-07b1-4675-b9b0-92909170110c'
+           ,'РџРµСЂРјСЊ'
+           ,'РњРёСЂР°'
            ,9
-           ,'0C780487-5C03-456E-A981-73A54516A6D1')
+           ,'d9b28caf-aac8-4986-8768-313803077ec9')
 GO
 
 INSERT INTO [dbo].[Building]
@@ -142,11 +142,11 @@ INSERT INTO [dbo].[Building]
            ,[number]
            ,[network_area_id])
      VALUES
-           (NEWID()
-           ,'Пермь'
-           ,'Мира'
+           ('943016a2-4408-4497-94f6-d81cbe295d38'
+           ,'РџРµСЂРјСЊ'
+           ,'РњРёСЂР°'
            ,10
-           ,'0C780487-5C03-456E-A981-73A54516A6D1')
+           ,'35c27bf7-962a-4ebd-a640-fc15e039c45f')
 GO
 
 
