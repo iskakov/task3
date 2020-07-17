@@ -1,24 +1,40 @@
 USE [Task3]
 GO
 
-INSERT INTO [dbo].[TypePipeline]
+INSERT INTO [dbo].[TypeIsolation]
            ([primarykey]
            ,[name])
      VALUES
-           ('5a9e1bfc-dd30-4868-b205-c602e9056858'
-           ,'Надземная')
+           ('ab515ada-2a5a-4353-b286-1feb2d7e817a'
+           ,'ППУ')
 GO
-INSERT INTO [dbo].[TypePipeline]
+INSERT INTO [dbo].[TypeIsolation]
            ([primarykey]
            ,[name])
      VALUES
-           ('1547accb-cf69-4f0c-a62e-b367d0730594'
-           ,'Подземная')
+           ('5a30dc8e-d88e-4f37-9eab-9e9f70605d3c'
+           ,'ППМ')
 GO
-INSERT INTO [dbo].[TypePipeline]
+INSERT INTO [dbo].[TypeIsolation]
            ([primarykey]
            ,[name])
      VALUES
-           ('2daf87a1-cf3b-4615-bfae-2a820f49a384'
-           ,'По подвалу')
+           ('56d1b571-ecf5-4cf9-bdf2-59a4ea923065'
+           ,'АПБ')
 GO
+INSERT INTO [dbo].[TypeIsolation]
+           ([primarykey]
+           ,[name])
+     VALUES
+           ('345dbab4-074a-4496-b005-956498037e68'
+           ,'Изоляция из пенополиэтилена')
+GO
+INSERT INTO [dbo].[TypeIsolation]
+           ([primarykey]
+           ,[name])
+     VALUES
+           ('6b1ccaf3-d04c-4dee-8f93-0007f06656fa'
+           ,'ВУС')
+GO
+
+
